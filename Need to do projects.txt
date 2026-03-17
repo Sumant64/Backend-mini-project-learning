@@ -3,4 +3,11 @@ o (Mini project) validation with joi
 o (Mini project) getting complex data with aggregation pipeline
 o (Mini project) socket io with node js
 o (Mini project) google drive doc receipt generation with node js
-o 
+o (Mini project) take the excel sheet and create the table in mongodb, and then one api to get, filter, sort, pagination
+o (Mini project) deployement with docker compose and aws ec2
+
+----> One phase take mongodb udemy course and complete it.
+
+o Microservices with node js and react
+o deployment of microservices with engineX and docker in ec2
+o Deployment of microservices with lambda

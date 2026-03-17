@@ -1,0 +1,7 @@
+o To do list with user and task model.
+o user Authentication with jwt.
+o password generation with bcrypt.
+o Schema validation with joi.
+o One to one mapping.
+o Virtual one to many mapping.
+o MVC folder structure (routes, middleware, controllers, config, models)
